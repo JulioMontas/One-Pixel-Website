@@ -1,4 +1,4 @@
 One-Pixel-Website
 =================
 
-http://pixelxpixel.net/
+http://PixelxPixel.net

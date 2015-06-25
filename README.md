@@ -1,4 +1,4 @@
 One-Pixel-Website
 =================
 
-<a href="http://PixelxPixel.net">Demo</a>
+<a href="http://pixelxpixel.juliomontas.com/">Version 3</a>
